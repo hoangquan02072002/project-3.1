@@ -1,0 +1,5 @@
+﻿  lab31.cpp
+D:\hoc tap\huong doi tuong\lab31\lab31.cpp(20,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\hoc tap\huong doi tuong\lab31\lab31.cpp(76,3): warning C4145: '==': relational expression as switch expression; possible confusion with '='
+D:\hoc tap\huong doi tuong\lab31\lab31.cpp(86,3): warning C4145: '==': relational expression as switch expression; possible confusion with '='
+  lab31.vcxproj -> D:\hoc tap\huong doi tuong\Debug\lab31.exe
